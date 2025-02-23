@@ -43,7 +43,7 @@ Imagina que estás al mando de un taller de robots donde puedes programar robots
 ### Código
 - [Robot.java](code/scene-02/Robot.java)
 - [TallerRobots.java](code/scene-02/TallerRobots.java)
-- [Main.java](code/TallerRobots/Main.java)
+- [Main.java](code/scene-02/Main.java)
 
 ## Tienda de Mascotas 🐾
 
