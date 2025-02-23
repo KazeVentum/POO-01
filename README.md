@@ -42,7 +42,7 @@ Imagina que estás al mando de un taller de robots donde puedes programar robots
 
 ### Código
 - [Robot.java](code/scene-02/Robot.java)
-- [scene-02.java](code/scene-02/TallerRobots.java)
+- [TallerRobots.java](code/scene-02/TallerRobots.java)
 - [Main.java](code/TallerRobots/Main.java)
 
 ## Tienda de Mascotas 🐾
@@ -61,7 +61,7 @@ En este mundo, serás el dueño de una tienda de mascotas. Podrás gestionar inv
 ### Código
 - [Mascota.java](code/scene-03/Mascota.java)
 - [Inventario.java](code/scene-03/Inventario.java)
-- [scene-03.java](code/scene-03/TiendaMascotas.java)
+- [TiendaMascotas.java](code/scene-03/TiendaMascotas.java)
 
 
 ## Conceptos de POO implementados 📚
